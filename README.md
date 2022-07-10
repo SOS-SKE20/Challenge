@@ -13,6 +13,15 @@ Earth --> Water --> Fire --> Air
   ↑___________________________|
 ```
 
+## Instructions
+Go into the file named `elementalist.py` in this repository or click [here](/elementalist.py).
+
+Then, copy the contents of the file to your computer and save the file as `.py` file.
+
+After that, work on your code until you've completed the challenge. Follow the instructions given in [Objectives](#objectives). *Tip: (Always save and test challenge by running your file)*
+
+Don't forget to submit your attempt to the link below! See [Submission](#submission).
+
 ## Objectives
 You are given a starting `list` of elements,:
 ```python
